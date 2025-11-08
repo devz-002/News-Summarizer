@@ -6,7 +6,7 @@ import os # to read environment variables
 app = FastAPI() # create FastAPI app instance
 
 # Initialize OpenAI client with the API key from the env variable
-client = OpenAI(api_key = os.getenv("OPENAI_API_KEY"))
+client = OpenAI(api_key = os.getenv("APYHUB_API_KEY"))
 
 class NewsText(BaseModel):
     news_source: str | None = None
