@@ -2,3 +2,4 @@ fastapi # the tiny web framework for building APIs
 uvicorn # the web server that runs the fastapi app
 openai # the OpenAI SDK to call ChatGPT
 pydantic # data validation and settings management using Python type annotations
+requests # library for making HTTP requests
