@@ -55,8 +55,8 @@ def summarize(news:NewsText):
         summary  = data.get("data", {}).get("summary", "No summary returned")
 
         return {
-            "source": news.news_source,
-            "result": summary
+            "news_source": news.news_source,
+            "news_result": summary
             }
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"{type(e).__name__}: {e}")

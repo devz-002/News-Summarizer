@@ -13,10 +13,9 @@
 }
 
 {
-  "source": "espresso",
-  "result": "Elon Musk's proposed $1 trillion pay package at Tesla faces scrutiny due to its ambitious targets.
-   The deal aims to increase Musk's stake from 16% to over 25% by boosting Tesla's value from $1.5 trillion to $8.5
-   trillion. Critics highlight varying goal difficulties and board independence concerns.
-   Despite opposition, Musk and the board are actively campaigning for approval, countering resistance from major 
-   investors like Norway's sovereign-wealth fund."
+  "news_source": "espresso",
+  "news_result": "Elon Musk's proposed $1 trillion pay package at Tesla faces scrutiny due to its 
+  ambitious targets. The deal aims to increase Musk's stake from 16% to over 25% by boosting the company's
+   value from $1.5 trillion to $8.5 trillion. Critics highlight varying goal difficulties and board independence
+    concerns, while Musk and the board rally support against institutional investors' opposition."
 }
